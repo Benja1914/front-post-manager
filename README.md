@@ -63,13 +63,4 @@ Abre tu navegador y navega a [http://localhost:3000](http://localhost:3000) para
 
 - `dev`: Inicia el servidor de desarrollo.
 - `build`: Compila la aplicación para producción.
-- `start`: Inicia el servidor en modo producción.
 - `lint`: Ejecuta ESLint para analizar el código en busca de errores y problemas de estilo.
-
-## 📝 Contribuciones
-
-¡Las contribuciones son bienvenidas! Si deseas mejorar este proyecto, por favor, realiza un fork del repositorio y envía un pull request con tus cambios.
-
-## 📄 Licencia
-
-Este proyecto está licenciado bajo la [MIT License](LICENSE).
